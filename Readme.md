@@ -4,8 +4,8 @@
 ## Temas de la materia
 
 0. Introducción a Python
-1. Señales continuas y discretas
-2. Caracterización de Sistemas
+1. Caracterización de Señales y Sistemas
+2. Sistemas LTI
 3. Series de Fourier
 4. Transformada de Fourier en tiempo continuo y discreto
 5. Muestreo
