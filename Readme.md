@@ -1,8 +1,6 @@
 
 # Repositorio no oficial de la Asignatura 86.05/66.74 - Señales y Sistemas de la FIUBA
 
----
-
 ## Temas de la materia
 
 0. Introducción a Python
@@ -30,6 +28,6 @@ conda env create -n ENVNAME --file requirements.yml
 ```
 donde `ENVNAME` es el nombre del entorno. La documentación completa de Conda puede ser encontrada en [este](https://conda.io/projects/conda/en/latest/index.html) link. Para una lista de acceso rápido a los comandos, ver el [*cheet sheet* de Conda](https://conda.io/projects/conda/en/latest/_downloads/cb0ffc4c7b1e6c0e716c066d2b077faf/conda-4.12.pdf).
 
-**Nota**: Cuando uno dice coloquialmente "instalar Python" en general se refiere a la [Máquina Virtual de Python] (https://www.devopsschool.com/blog/python-virtual-machine/#:~:text=Python%20Virtual%20Machine%20(PVM)%20is,instructions%20and%20display%20the%20output.), que es el programa que permite ejecutar los programas escritos en el [lenguaje de programación Python](https://www.python.org/). En nuestro caso, dejamos que el contexto solo se encargue de desambiguar estos dos términos :) 
+**Nota**: Cuando uno dice coloquialmente "instalar Python" en general se refiere a la [Máquina Virtual de Python](https://www.devopsschool.com/blog/python-virtual-machine/#:~:text=Python%20Virtual%20Machine%20(PVM)%20is,instructions%20and%20display%20the%20output.), que es el programa que permite ejecutar los programas escritos en el [lenguaje de programación Python](https://www.python.org/). En nuestro caso, dejamos que el contexto solo se encargue de desambiguar estos dos términos :) 
 
 
